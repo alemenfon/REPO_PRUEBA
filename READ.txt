@@ -1,0 +1,5 @@
+¿Qué encontrarás en este proyecto?
+En este proyecto elaborado para la asignatura de Lenguaje de marcas
+se han adaptado las exigencias del cliente sobre una plantilla de Boostrap seleccionada de Colorlib.
+El proyecto web con Bootstrap tiene por temática la repostería, el contenido de la página está dedicado a MamaChicha,
+obrador contemporáneo situado en El Puerto de Santa María.
